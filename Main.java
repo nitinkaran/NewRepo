@@ -13,13 +13,6 @@ System.out.println("chutiyapa kar rahe ho be........");
 System.out.println("hat bc....");
 System.out.println("ek bar or branch use kar....");
 System.out.println("final branch....");
-System.out.println("remote branching....");
-System.out.println("remotely 2.........");
-System.out.println("good....");
-System.out.println("hahahaha....");
-System.out.println("hahahaha again........");
-System.out.println("bababa");
-System.out.println("practise...");
-System.out.println("hahahaha....");
+System.out.println("hahahaha11111....");
 }
 }
